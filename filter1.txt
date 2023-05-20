@@ -13,7 +13,7 @@
 ||nintendo.co.nz^
 ||nintendo.at^
 ||nintendo.be^
-||nintendo.cz^
+||nintendods.cz^
 ||nintendo.dk^
 ||nintendo.de^
 ||nintendo.fi^
